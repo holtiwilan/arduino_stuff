@@ -9,7 +9,7 @@ RCSwitch mySwitch = RCSwitch();
 MDNSResponder mdns;
 // Replace with your network credentials
 const char* ssid = "Belos-Repeater";
-const char* password = "Wonzen01Herb1";
+const char* password = "Password";
 ESP8266WebServer server(80);
 
 // you can write your own css and html code (head) here
